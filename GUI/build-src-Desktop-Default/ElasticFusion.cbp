@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="ElasticFusion" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\Pangolin\;CMake Files\..\..\..\Pangolin\build\;CMake Files\..\..\..\Pangolin\build\src\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\..\usr\local\share\pcl-1.8\;CMake Files\..\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\;CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\CMake\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install">
+         <Option working_dir="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 install" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="list_install_components">
+         <Option working_dir="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 list_install_components" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/local">
+         <Option working_dir="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 install/local" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/strip">
+         <Option working_dir="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 install/strip" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ElasticFusion">
+         <Option output="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/ElasticFusion" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DDISABLE_ENSENSO" />
+            <Add option="-DDISABLE_DAVIDSDK" />
+            <Add option="-DDISABLE_DSSDK" />
+            <Add option="-DDISABLE_PCAP" />
+            <Add option="-DDISABLE_PNG" />
+            <Add option="-DDISABLE_LIBUSB_1_0" />
+            <Add option="-DDISABLE_RSSDK" />
+            <Add option="-Dlinux=1" />
+            <Add directory="/home/nemo/Documents/OpenNI2/Include" />
+            <Add directory="/home/nemo/Documents/Pangolin/build/src/include" />
+            <Add directory="/home/nemo/Documents/Pangolin/include" />
+            <Add directory="/home/nemo/Documents/elasticfusion-lccp-recognition/Core/src" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/ni" />
+            <Add directory="/usr/include/vtk-5.10" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/cuda/include" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/pcl-1.8" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 ElasticFusion" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ElasticFusion/fast">
+         <Option output="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/ElasticFusion" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DDISABLE_ENSENSO" />
+            <Add option="-DDISABLE_DAVIDSDK" />
+            <Add option="-DDISABLE_DSSDK" />
+            <Add option="-DDISABLE_PCAP" />
+            <Add option="-DDISABLE_PNG" />
+            <Add option="-DDISABLE_LIBUSB_1_0" />
+            <Add option="-DDISABLE_RSSDK" />
+            <Add option="-Dlinux=1" />
+            <Add directory="/home/nemo/Documents/OpenNI2/Include" />
+            <Add directory="/home/nemo/Documents/Pangolin/build/src/include" />
+            <Add directory="/home/nemo/Documents/Pangolin/include" />
+            <Add directory="/home/nemo/Documents/elasticfusion-lccp-recognition/Core/src" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/ni" />
+            <Add directory="/usr/include/vtk-5.10" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/cuda/include" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/pcl-1.8" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 ElasticFusion/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/Main.cpp">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/MainController.cpp">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/MainController.h">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/Tools/GroundTruthOdometry.cpp">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/Tools/GroundTruthOdometry.h">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/Tools/LiveLogReader.cpp">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/Tools/LiveLogReader.h">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/Tools/OpenNI2Interface.cpp">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/Tools/OpenNI2Interface.h">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/Tools/RawLogReader.cpp">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/Tools/RawLogReader.h">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/Tools/RealSenseInterface.cpp">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/Tools/RealSenseInterface.h">
+         <Option target="ElasticFusion"/>
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/FindOpenNI2.cmake">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/Findefusion.cmake">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../Pangolin/build/src/PangolinConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\Pangolin\build\src\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../Pangolin/build/src/PangolinConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\Pangolin\build\src\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../Pangolin/build/src/PangolinTargets.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\Pangolin\build\src\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/local/share/pcl-1.8/PCLConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\pcl-1.8\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/local/share/pcl-1.8/PCLConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\pcl-1.8\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKConfigQt.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKTargets.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKTargets-release.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/UseVTK.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKConfigQt.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/UseVTK.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKConfigQt.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/UseVTK.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/VTKConfigQt.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/UseVTK.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\" />
+      </Unit>
+      <Unit filename="/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/src/../../../../../../usr/lib/vtk-5.10/CMake/vtkMakeInstantiator.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\vtk-5.10\CMake\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

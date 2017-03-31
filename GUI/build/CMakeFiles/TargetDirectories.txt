@@ -1,0 +1,7 @@
+/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build/CMakeFiles/install.dir
+/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build/CMakeFiles/list_install_components.dir
+/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build/CMakeFiles/rebuild_cache.dir
+/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build/CMakeFiles/install/local.dir
+/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build/CMakeFiles/install/strip.dir
+/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build/CMakeFiles/ElasticFusion.dir
+/home/nemo/Documents/elasticfusion-lccp-recognition/GUI/build/CMakeFiles/edit_cache.dir
